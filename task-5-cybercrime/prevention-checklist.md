@@ -29,6 +29,7 @@
 • I log out properly if I ever use someone else’s device. 
 
 • I try to keep a backup of important files, just in case something goes wrong.
+
 **UPI Safety**:
 Be wary of small transactions from unknown sources; they might be test transactions to catch you.
 
