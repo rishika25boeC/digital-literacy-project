@@ -15,6 +15,9 @@ The second task focused on building a digital portfolio using platforms like Git
 ## 💻 Task 3: Coding & Collaboration Platforms
 
 In this task, different platforms such as GitHub, HackerRank, Kaggle, and Google Forms were explored. Activities included uploading basic code, solving beginner-level problems, exploring datasets, and creating a digital quiz. This task provided hands-on experience and helped in understanding how coding and collaboration tools work in real-world situations. It also improved problem-solving skills and encouraged learning beyond theoretical concepts.
+### Google form link- https://docs.google.com/forms/d/e/1FAIpQLSd6-K6SZhcWBNuSv8kpWtp2gEgajDQF-nP0aDANwebvS3XGEg/viewform?usp=header
+### Spreadheet link- https://docs.google.com/spreadsheets/d/1-UyTYuybmuxTVMLD6C3kdc0e_b_9e5Pe3Qz1FgHSZV8/edit?usp=sharing
+
 
 ## 💬 Task 4: Scenario Analysis (Digital Communication)
 
